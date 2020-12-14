@@ -29,3 +29,5 @@ GCC_VERSION=9.3.0
 ```
 
 Contributions are welcomed
+
+This is based on [dlang](https://dlang.org/)s install [script](https://github.com/dlang/installer/blob/master/script/install.sh) and [this gist](https://gist.github.com/nchaigne/ad06bc867f911a3c0d32939f1e930a11)
