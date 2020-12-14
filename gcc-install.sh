@@ -1,5 +1,5 @@
 # Download and compile gcc
-GCC_VERSION=9.3.0
+GCC_VERSION=10.2.0
 ROOT=~/gcc
 
 mkdir -p "${ROOT}/gcc-${GCC_VERSION}"
